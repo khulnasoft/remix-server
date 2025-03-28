@@ -15,7 +15,7 @@
         "@khulnasoft/cms": "workspace:*",
         "@khulnasoft/shared": "workspace:*",
         "@khulnasoft/web": "workspace:*",
-        "express": "^4.20.0"
+        "express": "^4.21.0"
     },
     "devDependencies": {
         "@types/express": "^4.17.17",
