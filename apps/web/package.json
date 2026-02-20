@@ -23,8 +23,8 @@
     "dependencies": {
         "@khulnasoft/ui": "workspace:*",
         "@remix-run/express": "^1.12.0",
-        "@remix-run/node": "^1.12.0",
-        "@remix-run/react": "^1.12.0",
+        "@remix-run/node": "^2.17.2",
+        "@remix-run/react": "^2.17.4",
         "escape-html": "^1.0.3",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
