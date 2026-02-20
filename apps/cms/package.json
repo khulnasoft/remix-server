@@ -35,7 +35,7 @@
     },
     "dependencies": {
         "@khulnasoft/ui": "workspace:*",
-        "payload": "^1.6.9"
+        "payload": "^3.74.0"
     },
     "devDependencies": {
         "@khulnasoft/shared": "workspace:*",
